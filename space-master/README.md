@@ -1,7 +1,8 @@
 # S P A C E
 
 ![cover](resources/space-readme.jpg)
-![cover](resources/Screenshot(120).png)
+![Preview](resources/Screenshot(120).png)
+![cover]()
 ![cover](resources/Screenshot(121).png)
 
 Chat application for developers
