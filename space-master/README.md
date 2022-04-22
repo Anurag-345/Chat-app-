@@ -5,7 +5,7 @@
 Chat application for developers
 ---
 
-![cover](resources/Screenshot(120).png)
+![cover](resources/Screenshot (120).png)
 ![cover](resources/Screenshot(121).png)
 
 If you want to chat up, join the room `test` on the app.
