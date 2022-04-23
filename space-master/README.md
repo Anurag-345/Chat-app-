@@ -9,7 +9,7 @@ Chat application for developers
 
 If you want to chat up, join the room `test` on the app.
 
-There is a known bug in firebase; it doesn't have permission to read certain users' display name. I've stored their email ID instead of the name.
+
 
 
 ## Website
