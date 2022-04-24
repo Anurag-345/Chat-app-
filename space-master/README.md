@@ -12,10 +12,6 @@ If you want to chat up, join the room `test` on the app.
 
 
 
-## Website
-spacedev.herokuapp.com
----
-Although this is a desktop application made with electron, it runs on the web as well.
 
 
 ## About
